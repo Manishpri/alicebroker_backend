@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "+E-8*gD?6&j3#VMH",
+    "database": "DEMATADETRADING",
+    "host": "dematadetrading.ctixb1dguni6.ap-south-1.rds.amazonaws.com",
+    "dialect": "mysql",
+     "logging":false
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "+E-8*gD?6&j3#VMH",
+    "database": "DEMATADETRADING",
+    "host": "dematadetrading.ctixb1dguni6.ap-south-1.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "app_id": "DEMATADE",
+  "api_secret": "UJLVW5IMH6UZGMI54U8F34QYGZ2GCFFQ0HG2LAP8IWB8NVUGIWP5P4A02XP6CCKB"
+}
